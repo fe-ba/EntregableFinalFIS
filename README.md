@@ -1,3 +1,7 @@
+Ferney Eduardo Ballesta Avila 20231020141
+Mariam Betin Escobar 20232020300
+
+
 # Hogar Viejito Canoso — Sistema de administración
 
 Aplicación web para la gestión de un hogar gerontológico. Desarrollada con Python/Flask y PostgreSQL.
