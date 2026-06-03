@@ -1,4 +1,4 @@
-Ferney Eduardo Ballesta Avila 20231020141  &  Mariam Betin Escobar 20232020300
+## Ferney Eduardo Ballesta Avila 20231020141  &  Mariam Betin Escobar 20232020300
 
 
 # Hogar Viejito Canoso — Sistema de administración
